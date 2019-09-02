@@ -1,7 +1,7 @@
 print("hello python")
 
 
-num = 100
+num = 300
 
 
 str = 'hello world'
